@@ -1,4 +1,3 @@
-# Food Studies & Nutrition Workshop on the OSF
-## August 4, 2016 | Bobost 617
+# General Workshop on the OSF
 
-These are slides for a workshop given to the faculty members in NYU's department of Food Studies and Nutrition. 
+These are slides for a general introduction to OSF. These have been adapted from Vicky Steeves' slidedeck from NYU (github.com/VickySteeves/OSF-Workshop).  
